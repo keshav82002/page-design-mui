@@ -107,3 +107,5 @@ const Page = () => {
         </Stack>
     )
 }
+
+export default Page;
