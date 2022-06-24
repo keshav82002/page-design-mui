@@ -1,4 +1,5 @@
 import { Typography, Box } from "@mui/material";
+import Page from '../components/Page'
 
 export default function Home() {
   return (
